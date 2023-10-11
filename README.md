@@ -26,11 +26,7 @@ Here are some of my notable projects:
 
 1. **MediML**
    - Description: Developed prediction tool for my final project in the Le Wagon bootcamp. It uses data from cardiovascular diseases and strokes to make predictions for different patients. Tha Back-End is developed in python while the Front-End is made with React.
-   - [Link to Project](#)
-
-2. **Government Data Analysis Tool**
-   - Description: Contributed to a government data analysis project using SQL and Java with Spring Boot.
-   - [Link to Project](#)
+   - [Back-End project](https://github.com/nachmz42/MediML) - [Front-End project](https://github.com/Remi-deronzier/mediml-front)
 
 Feel free to explore these projects to learn more about my work and interests!
 
