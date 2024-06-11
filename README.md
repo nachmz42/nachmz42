@@ -11,7 +11,7 @@ My initial encounter with programming was in web development, and I fell in love
 
 ## 💼 Professional Experience
 
-- Fullstack Developer at Bahía Software (April 2023 - Present): I work in the R&D team, where we apply cutting-edge technologies to projects related to public health. I use React for the frontend and Java with Spring Boot for microservices on the backend.
+- Fullstack Developer at Bahía Software (April 2023 - Present): I work in the R&D team, where we apply cutting-edge technologies to projects related to public health. I use React for the frontend and Java with Spring Boot for microservices on the backend. Lately, I've been working with the data science team, applying all the skills acquired in my training
 
 - Backend Developer at NTTDATA (November 2021 - March 2023): I contributed to a project for a government ministry, focusing on data management technologies, including SQL, Java with Spring Boot, and Angular for frontend development (even though it wasn't my specialization).
 
