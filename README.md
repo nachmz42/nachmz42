@@ -28,9 +28,10 @@ Here are some of my notable projects:
    - Description: Developed prediction tool for my final project in the Le Wagon bootcamp. It uses data from cardiovascular diseases and strokes to make predictions for different patients. Tha Back-End is developed in python while the Front-End is made with React.
    - [Back-End project](https://github.com/nachmz42/MediML) - [Front-End project](https://github.com/Remi-deronzier/mediml-front)
 
-2. **What's that fruit?** (Work in progress)
+2. **What's that fruit?**
    - Description: Little personal project where I try to apply the skills adquired during the Le Wagon bootcamp by myself.
    - [What's that fruit? - Front](https://github.com/nachmz42/what-is-that-fruit-front)
+   - [What's that fruit? - Back](https://github.com/nachmz42/what-is-that-fruit-back)
 
 Feel free to explore these projects to learn more about my work and interests!
 
